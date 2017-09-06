@@ -1,4 +1,4 @@
-#BatchRename 1.0
+# BatchRename 1.0
 by Pedro Parracho <pedro.parracho@gmail.com>
 
 
@@ -9,14 +9,14 @@ The date field is created using the file creation time, the filename is a text s
 ## Install
 To install you need to copy the workflow to the folder `~/Library/Services`.
 
-##Feature
+## Feature
 
 It will rename the selected files according with the scheme: `aaaa.mm.dd.fileBase.sequence.extension`
 
-##Screenshot
+## Screenshot
 
 ![ScreenShot](screenshot.png)
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.
+Released under MIT License
